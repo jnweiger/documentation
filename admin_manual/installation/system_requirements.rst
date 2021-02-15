@@ -87,13 +87,13 @@ Hypervisors
 Desktop
 ^^^^^^^
 
-- Windows 7, 8+
-- Mac OS X 10.12+ (**64-bit only**)
-- CentOS 6 & 7 (64-bit only)
-- Debian 7 & 8
-- Fedora 27 & 28
-- Ubuntu 16.04 & 18.04
-- openSUSE Leap 15.0, 42.3
+- Windows 7, 8+, 10, (Win10 H2 recommended for VFS support)
+- Mac OS X 10.12+, 11 (**64-bit only**)
+- CentOS 7 & 8 (64-bit only)
+- Debian 9 & 10
+- Fedora 31, 32, 33
+- Ubuntu 18.04, 20.04, 20.10
+- openSUSE Leap 15.1, 15.2
 
 .. note::
    For Linux distributions, we support, if technically feasible, the latest 2 versions per platform and the previous `LTS`_.
